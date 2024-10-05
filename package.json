@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@expo/metro-runtime": "~3.2.3",
+    "@react-native-picker/picker": "^2.8.1",
     "axios": "^1.7.7",
     "expo": "~51.0.28",
     "expo-barcode-scanner": "^13.0.1",
@@ -18,7 +19,7 @@
     "expo-status-bar": "~1.12.1",
     "react": "^18.2.0",
     "react-dom": "18.2.0",
-    "react-native": "^0.74.5",
+    "react-native": "^0.74.6",
     "react-native-web": "~0.19.10"
   },
   "devDependencies": {
